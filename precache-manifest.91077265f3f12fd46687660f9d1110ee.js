@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13a7deb78c477a428eb132ae6289bef3",
+    "revision": "aadcd0ef198b4ea8e6ace1a30e9306e1",
     "url": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "7b0c754b9e41c8c3d52b",
+    "revision": "34157308f9751645812e",
     "url": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/css/main.d2733d83.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/2.436754dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b0c754b9e41c8c3d52b",
-    "url": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/main.70e99b3d.chunk.js"
+    "revision": "34157308f9751645812e",
+    "url": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/main.92a9beaf.chunk.js"
   },
   {
     "revision": "b525820c45caf587b7bc",
